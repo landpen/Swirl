@@ -1,0 +1,14 @@
+img {
+    width: 200px;
+}
+body {
+    font-family:"Happy Monkey";
+    text-align: center;
+    color: hsla(337, 81%, 31%, 0.121);
+    background: rgb(53, 152, 63);
+}
+.happy-monkey-regular {
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
